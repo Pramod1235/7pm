@@ -2,4 +2,4 @@ This is test file from another develpor
 This is from Dev2
 This is from dev2 - Team1 logic for Member search API
 This is logic for Member synch
-
+This is configuration file added by TeamB CLI
